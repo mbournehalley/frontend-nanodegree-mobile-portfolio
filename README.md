@@ -6,6 +6,12 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 ###CHALLENGE ACCEPTED
 View the Optimized website : https://mbournehalley.github.io/frontend-nanodegree-mobile-portfolio/
 
+* Mobile : 95/100
+* Desktop : 90/100
+* Minified HTML, CSS and Javascript
+* Added requestAnimationFrame for optimization
+* Fix bug in the Javascript to render 60fps
+
 ### Getting started
 
 Some useful tips to help you get started:
