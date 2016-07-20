@@ -1,0 +1,2 @@
+/*! frontend-nanodegree-mobile-portfolio-optimize 19-07-2016 */
+function logCRP(){var a=window.performance.timing,b=a.domContentLoadedEventStart-a.domLoading,c=a.domComplete-a.domLoading,d=document.getElementById("crp-stats");d.textContent="DCL: "+b+"ms, onload: "+c+"ms"}window.addEventListener("load",function(a){logCRP()});
